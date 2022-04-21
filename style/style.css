@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    display:block;
+    margin:40px auto;
+    transition: tranform 1s ease-in-out;
+}
+#logo:hover {             /*   x,y */
+    /* transform: translate(120px, 90px); */
+    /* transform: scale(2) perspective(2px); (in large picture) */
+    /* transform: translate(-120px, -90px) scale(2); */
+    /* transform: rotate(270deg); (turn around object) */
+    /* -webkit-transform:;
+    -moz-transform: ;
+} */
